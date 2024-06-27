@@ -1102,7 +1102,7 @@ hr {
 	top: -20vh;
 	width: 120vw;
 	height: 120vh;
-	background-image: linear-gradient( 94.3deg,  rgba(26,33,64,1) 10.9%, rgba(81,84,115,1) 87.1% );}
+	background-image: linear-gradient(to right, #434343 0%, black 100%);}
 
 .preloader .spinner {
 	display: inline-block;
